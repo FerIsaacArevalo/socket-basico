@@ -1,6 +1,6 @@
 # Notas:
 
-Sala de Chat utilizando socket.io.
+Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web con fundamentos de uso de socket.
 
 reconstruir los módulos de node con el comando
 
